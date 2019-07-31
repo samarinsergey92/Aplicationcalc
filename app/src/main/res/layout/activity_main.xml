@@ -9,20 +9,20 @@
     <EditText
         android:layout_width="86dp"
         android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteX="102dp"
         tools:layout_editor_absoluteY="172dp" />
 
     <EditText
         android:layout_width="88dp"
         android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteX="209dp"
         tools:layout_editor_absoluteY="172dp" />
 
-    <EditText
-        android:layout_width="100dp"
+    <TextView
+        android:layout_width="162dp"
         android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="279dp"
-        tools:layout_editor_absoluteY="172dp" />
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="243dp" />
 
     <Button
         android:id="@+id/button"
