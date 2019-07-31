@@ -10,13 +10,15 @@
         android:layout_width="86dp"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="102dp"
-        tools:layout_editor_absoluteY="172dp" />
+        tools:layout_editor_absoluteY="172dp"
+        android:inputType="numberDecimal"  />
 
     <EditText
         android:layout_width="88dp"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="209dp"
-        tools:layout_editor_absoluteY="172dp" />
+        tools:layout_editor_absoluteY="172dp"
+        android:inputType="numberDecimal"   />
 
     <TextView
         android:layout_width="162dp"
